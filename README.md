@@ -1,5 +1,5 @@
 # ISFormer
-official code for ISFormer: A Simple Transformer for Infrared Small Target Detection
+official code for ISFormer
 
 
 **model will be released after paper accepted**
